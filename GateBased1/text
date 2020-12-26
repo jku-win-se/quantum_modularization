@@ -1,1 +1,1 @@
-This folder includes the relevant code to execute the GB1 algorithm.
+This folder includes the relevant code to execute the GB1 algorithm as well as an alternative implementation of the QAOA in Qiskit.
