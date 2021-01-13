@@ -1,0 +1,4 @@
+qiskit==0.23.2
+jupyter==1.0.0
+matplotlib==3.3.3
+pylatexenc==2.8
