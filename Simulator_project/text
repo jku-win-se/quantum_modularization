@@ -1,1 +1,6 @@
 Folder for project docs
+
+Notizen: Der QAOA mit der Wrapper-Funktion braucht 4 jobs um zum Ergebnis zu gelangen und rotiert wirklich immer nur um sehr kleine Winkel
+         Die QAOA2 Implementierung mit dem qasm-Simulator braucht dagegen 37 Jobs (ein Versuch gemacht) und rotiert um "normale" Winkel
+         Sonst scheinen sich die Circuits von QAOA und QAOA2 aber nicht zu unterscheiden; einziger Unterschied: beim QAOA (Wrapper) findet bei der CNOT-Operationen wo Qubit1 als Control
+         genommen wird noch eine RZ-Rotation am anderen Qubit statt
