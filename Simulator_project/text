@@ -8,4 +8,4 @@ Notizen: Ich habe deinen Circuit mit denen verglichen, welche ich von IBM angeze
          Sonst scheinen sich die Circuits von QAOA und QAOA2 aber nicht zu unterscheiden; einziger Unterschied: beim QAOA (Wrapper) findet bei den CNOT-Operationen wo Qubit1 als Target
          genommen wird noch eine RZ-Rotation am anderen Control-Qubit statt
          
-         Ich habe auch noch eine Implementierung der Grover Adaptive Search commitet; die sollten wir aber vl über Skype besprechen
+         Ich habe auch noch eine Implementierung der Grover Adaptive Search commitet; die sollten wir aber vl über Skype besprechen (braucht 34 Iterationen und liefert falsches Ergebnis)
